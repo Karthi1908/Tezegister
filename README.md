@@ -66,13 +66,10 @@ The Game has two phases.
 
 ### Salient features
 
-The game is completely coded into a smart contract and its non-core feature are completely flexible.
-
-The game introduces the NTT (Non-Transferable Tokens ) ie tokens that are attached to the wallets and cannot be moved to another wallet. The NTT ( Trust and MisTrust Token) acts as a reputation filter to let the wallet holder to participate in other games. 
-
-The game as such doesn't specify the verification method which lets people choose their convenient method. This may be one to one interactions or a group interaction which should be the preferred way that may pave way for more team building activities.
-
-Wallet relationships can also be used for graph analysis to identify future Sybil attacks
+- The game is completely coded into a smart contract and its non-core feature are completely flexible.
+- The game introduces the NTT (Non-Transferable Tokens ) ie tokens that are attached to the wallets and cannot be moved to another wallet. The NTT ( Trust and MisTrust Token) acts as a reputation filter to let the wallet holder to participate in other games. 
+- The game as such doesn't specify the verification method which lets people choose their convenient method. This may be one to one interactions or a group interaction which should be the preferred way that may pave way for more team building activities.
+- Wallet relationships can also be used for graph analysis to identify future Sybil attacks
 
 ### Benefits:
 
