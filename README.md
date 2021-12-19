@@ -84,13 +84,13 @@ Wallet relationships can also be used for graph analysis to identify future Sybi
 
 ### Inspiration and references:
 
-Upala https://docs.upala.id/en/latest/explosive-bots.html
-BrightId https://www.brightid.org/about-us
-Humanity Dao https://humanitydao.gitbook.io/humanity/
+- Upala https://docs.upala.id/en/latest/explosive-bots.html
+- BrightId https://www.brightid.org/about-us
+- Humanity Dao https://humanitydao.gitbook.io/humanity/
 
-https://medium.com/@simondlr/city-walls-bo-taoshi-exploring-the-power-of-token-curated-registries-588f208c17d5
-Sybilproof Reputation Mechanisms http://www.eecs.harvard.edu/cs286r/courses/fall08/files/paper-CheFri.pdf
-Robust Incentive Techniques for Peer-to-Peer Networks http://www.csl.mtu.edu/cs6461/www/Reading/Feldman04.pdf
+- https://medium.com/@simondlr/city-walls-bo-taoshi-exploring-the-power-of-token-curated-registries-588f208c17d5
+- Sybilproof Reputation Mechanisms http://www.eecs.harvard.edu/cs286r/courses/fall08/files/paper-CheFri.pdf
+- Robust Incentive Techniques for Peer-to-Peer Networks http://www.csl.mtu.edu/cs6461/www/Reading/Feldman04.pdf
 
 
 
