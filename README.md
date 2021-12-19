@@ -28,7 +28,9 @@ So the economic incentives are needed to be aligned so that the list is curated 
 
 ### The Game
 
-The Tezegister Game is a social game that has two phases.
+The Tezegister Game is a social game to prove one's personhood in which one's reputation and trust can be traded for a monetary benefit. People form a group, verify other members of the group, pool in the funds and grant rights to all the members to loot the group pool of funds either fully or partially. The Game comes to an end after the given time period. The group as a whole wins the game if none of the members exercises their rights to loot the funds. The members then get access to mint a Trust token and membership in Tezegister. The group loses even if a member decides to steal the funds.
+
+The Game has two phases.
 
 ###### Recruiting Phase :
 
@@ -71,6 +73,24 @@ The game introduces the NTT (Non-Transferable Tokens ) ie tokens that are attach
 The game as such doesn't specify the verification method which lets people choose their convenient method. This may be one to one interactions or a group interaction which should be the preferred way that may pave way for more team building activities.
 
 Wallet relationships can also be used for graph analysis to identify future Sybil attacks
+
+### Benefits:
+
+1. The Main benefit of Tezegister is a Sybil resistant proof of personhood that will establish one's SSI
+2. Trusted wallets as DID in a trustless ecosystem
+2. Social Credit Score for uncollateralized lending
+3. Proof of personhood help with the governance process of DAOs that implement one person one vote strategy
+4. Gain of reputation 
+
+### Inspiration and references:
+
+Upala https://docs.upala.id/en/latest/explosive-bots.html
+BrightId https://www.brightid.org/about-us
+Humanity Dao https://humanitydao.gitbook.io/humanity/
+
+https://medium.com/@simondlr/city-walls-bo-taoshi-exploring-the-power-of-token-curated-registries-588f208c17d5
+Sybilproof Reputation Mechanisms http://www.eecs.harvard.edu/cs286r/courses/fall08/files/paper-CheFri.pdf
+Robust Incentive Techniques for Peer-to-Peer Networks http://www.csl.mtu.edu/cs6461/www/Reading/Feldman04.pdf
 
 
 
