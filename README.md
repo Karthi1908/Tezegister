@@ -19,11 +19,11 @@ Self-sovereign identity (SSI) is an approach to digital identity that gives indi
 
 
 
-### Token Curated Registry
+### Tezos Curated Registry
 
 Token-curated registries are decentrally-curated lists with intrinsic economic incentives for token holders to curate the list’s contents judiciously. - Mike Goldin
 
-So the economic incentives are needed to be aligned so that the list is curated for high-quality content. In our case, the incentives need to be aligned so that the registry contains only the wallet address of distinct humans and not the different addresses of the same human. The entry to the registry need to be strict and can only be done by playing the (Squid) Game. Here the game players act as the gatekeepers for the registry as their staked amount depends on it. 
+So the economic incentives are needed to be aligned so that the list is curated for high-quality content. In our case of decentralise registry , the incentives need to be aligned so that the registry contains only the wallet address of distinct humans and not the sybil addresses of the same human. The entry to the registry need to be strict and can only be done by playing the (Squid) Game. Here the game players act as the gatekeepers for the registry as their staked amount depends on it. As a decentralised 
 
 
 ### The Game
@@ -60,6 +60,17 @@ The Tezegister Game is a social game that has two phases.
 4. If no member chooses to steal till the end of the holding phase, the game is considered to end successfully. 
 
 5. The members of the successful games are provided with the option to mint Trust token ( NTT) and register with Tezegister.  
+
+
+### Salient features
+
+The game is completely coded into a smart contract and its non-core feature are completely flexible.
+
+The game introduces the NTT (Non-Transferable Tokens ) ie tokens that are attached to the wallets and cannot be moved to another wallet. The NTT ( Trust and MisTrust Token) acts as a reputation filter to let the wallet holder to participate in other games. 
+
+The game as such doesn't specify the verification method which lets people choose their convenient method. This may be one to one interactions or a group interaction which should be the preferred way that may pave way for more team building activities.
+
+Wallet relationships can also be used for graph analysis to identify future Sybil attacks
 
 
 
