@@ -90,4 +90,50 @@ The Game has two phases.
 - Robust Incentive Techniques for Peer-to-Peer Networks http://www.csl.mtu.edu/cs6461/www/Reading/Feldman04.pdf
 
 
+Screenshots
+
+Registry
+
+![image](https://user-images.githubusercontent.com/33004854/146681457-c95eef80-7eec-4713-86be-78e18bdf7c65.png)
+
+The Game List
+![image](https://user-images.githubusercontent.com/33004854/146681473-b27d363b-8771-4b91-a582-74540e194c64.png)
+
+NTTs
+
+- Mistrust token
+![image](https://user-images.githubusercontent.com/33004854/146681521-8f724990-d7f4-4928-86a3-052873d5e2d2.png)
+
+Mistrust Token with amount stolen details
+![image](https://user-images.githubusercontent.com/33004854/146681552-dc8e4f3f-bf29-488c-82fa-3c81a0eb5bee.png)
+
+
+
+- Trust token fromat ( Pot size in tez X Group Size X Holding Days)
+
+![image](https://user-images.githubusercontent.com/33004854/146681635-202741c4-809e-4a21-8376-90123ae6de2a.png)
+
+![image](https://user-images.githubusercontent.com/33004854/146681650-ddb72cea-d061-425d-b119-72a0b30af181.png)
+
+Explorer screenshots.
+- Game Details:
+
+ ![image](https://user-images.githubusercontent.com/33004854/146681718-e6b6ef63-5b99-48a4-8c09-9b660b7239fc.png)
+
+- Registry 
+
+![image](https://user-images.githubusercontent.com/33004854/146681754-e43255bd-5b27-4abe-b995-0c0a56167ba6.png)
+
+- Partcipants List
+
+![image](https://user-images.githubusercontent.com/33004854/146681776-ed673a34-d2f2-4d0a-a9cd-6e84a1611476.png)
+
+- Referrals
+
+![image](https://user-images.githubusercontent.com/33004854/146681801-5f02b3df-2df6-4c02-94b2-b282c6089e92.png)
+
+
+
+
+
 
