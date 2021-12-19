@@ -102,9 +102,12 @@ The Game List
 NTTs
 
 - Mistrust token
+
 ![image](https://user-images.githubusercontent.com/33004854/146681521-8f724990-d7f4-4928-86a3-052873d5e2d2.png)
 
 Mistrust Token with amount stolen details
+
+
 ![image](https://user-images.githubusercontent.com/33004854/146681552-dc8e4f3f-bf29-488c-82fa-3c81a0eb5bee.png)
 
 
