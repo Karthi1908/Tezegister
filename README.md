@@ -23,7 +23,7 @@ Self-sovereign identity (SSI) is an approach to digital identity that gives indi
 
 Token-curated registries are decentrally-curated lists with intrinsic economic incentives for token holders to curate the list’s contents judiciously. - Mike Goldin
 
-So the economic incentives are needed to be aligned so that the list is curated for high-quality content. In our case of decentralise registry , the incentives need to be aligned so that the registry contains only the wallet address of distinct humans and not the sybil addresses of the same human. The entry to the registry need to be strict and can only be done by playing the (Squid) Game. Here the game players act as the gatekeepers for the registry as their staked amount depends on it. As a decentralised 
+So the economic incentives are needed to be aligned so that the list is curated for high-quality content. In our case of decentralise registry , the incentives need to be aligned so that the registry contains only the wallet address of distinct humans and not the sybil addresses of the same human. The entry to the registry need to be strict and can only be done by playing the (Squid) Game. Here the game players act as the gatekeepers for the registry as their staked amount depends on it. 
 
 
 ### The Game
@@ -112,7 +112,7 @@ Mistrust Token with amount stolen details
 
 
 
-- Trust token fromat ( Pot size in tez X Group Size X Holding Days)
+- Trust token format ( Pot size in tez X Group Size X Holding Days)
 
 ![image](https://user-images.githubusercontent.com/33004854/146681635-202741c4-809e-4a21-8376-90123ae6de2a.png)
 
